@@ -1,0 +1,68 @@
+a,
+a:hover, a:focus, .blogs .blog:hover h3 a, .blogs .blog:focus h3 a, .upcoming-events .post:hover h3 a, .upcoming-events .post:focus h3 a,
+.product-details .prodcut-info .new-price,
+.blog-list .post .meta .book-from,
+.calendar h2{ color: #f1c40f; }
+
+a:hover, a:focus,
+h3 a:hover,
+.panel-title > a,
+.blog-list .post:focus h2 a, .blog-list .post:hover h2 a,
+.blogs .blog:hover h3 a, .blogs .blog:focus h3 a,
+.upcoming-events .post:hover h3 a, .upcoming-events .post:focus h3 a,
+#aside .widget ul li > a:hover, #aside .widget ul li > a:focus, #aside .widget ul li.active > a,
+#aside .widget-posts ul li:hover .title a, #aside .widget-posts ul li:focus .title a,
+#aside .widget-comments .head .author,
+.nav-tabs li a:hover, .nav-tabs li.active a, .nav-tabs li a:focus, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus,
+.blog-post:hover h2 a, .blog-post:focus h2 a, .blog-post:hover h3 a, .blog-post:focus h3 a,
+.post-detail .author-details h3 a:hover, .post-detail .author-details h3 a:focus,
+.event-list .event:hover h2 a, .event-list .event:focus h2 a,
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus,
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{ color: #f39c12; }
+
+#header,
+.upcoming-events .post:hover .time a,
+.navbar-header,
+.navbar-default .navbar-toggle .icon-bar,
+.services .col-lg-4:hover .heading-bar .icon,
+.owl-carousel #progressBar #bar,
+.testimonials .btn-quote,
+.sermon .buttons > li > a:hover,
+.sermon .buttons > li > .dropdown > ul,
+.info .icon,
+.btn-primary,
+.media h3 .fa,
+.priceBox h2,
+.ui-widget-header,
+.share-holder:hover .btn-share, .share-holder:focus .btn-share,
+.share-holder .social li a:hover, .share-holder .social li a:focus,
+.pagination li a:hover, .pagination li a:focus, .pagination li.active,
+.calendar .fc-day-grid-event,
+.newslatter input[type="submit"],
+.owl-carousel .owl-prev:hover, .owl-carousel .owl-next:hover, .owl-carousel .owl-prev:focus, .owl-carousel .owl-next:focus{
+	background-color: #f1c40f;
+}
+.topbar,
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary,
+.posts .box:hover .btn-default, .posts .box:focus .btn-default,
+.gallery .item:hover .icon-cam,
+.blog-list .post .links > ul > li:hover > a, .blog-list .post .links > ul > li > a:hover, .blog-list .post .links > ul > li > a:focus,
+.blog-list .post .links > ul > li > .dropdown > ul{
+	background-color: #f39c12;
+}
+.posts .title:before { border-color: #f39c12 rgba(0, 0, 0, 0); }
+.sermon .buttons > li > a:hover,
+.services .col-lg-4:hover .heading-bar .icon,
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary,
+.btn-primary,
+.posts .box:hover .btn-default, .posts .box:focus .btn-default,
+.gallery .item:hover .icon-cam,
+#aside .widget ul li > a:hover:before, #aside .widget ul li > a:focus:before, #aside .widget ul li.active > a:before,
+.share-holder:hover .btn-share, .share-holder:focus .btn-share,
+.share-holder .social li a:hover, .share-holder .social li a:focus,
+.blog-list .post .links > ul > li:hover > a, .blog-list .post .links > ul > li > a:hover, .blog-list .post .links > ul > li > a:focus{
+	border-color: #f39c12;
+}
+.blog-list .post .links > ul > li > .dropdown > ul:after,
+.sermon .buttons > li > .dropdown > ul:after{border-color:rgba(192, 14, 14, 0) rgba(192, 14, 14, 0) #f39c12;}
+@media only screen and (max-width: 991px) { #nav .navbar-collapse{ background-color: #f1c40f; } }

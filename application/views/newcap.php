@@ -1,0 +1,1 @@
+ <div id="sam"><?php echo $cap_img ?></div>
